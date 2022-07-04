@@ -1,7 +1,7 @@
 .container {
   width: 100vw;
   min-height: 100vh;
-
+  background-color: brown;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -17,16 +17,16 @@
 }
 .chart1{
 
-  background-color: beige;
+  background-color: white;
   margin: 1rem;
 }
 .chart2{
 
-  background-color: beige;
+  background-color: white;
   margin: 1rem;
 }
 .chart3{
 
-  background-color: beige;
+  background-color: white;
   margin: 1rem;
 }
